@@ -122,10 +122,10 @@ export default function Home() {
       {/* Waitlist Section */}
       <section className="py-16 bg-[#270F41] text-white">
         <div className="container text-center">
-          <h2 className="text-3xl font-bold mb-4">Soyez les premiers informés du lancement</h2>
+          <h2 className="text-3xl font-bold mb-4">Be the First to Know About Our Launch</h2>
           <p className="max-w-2xl mx-auto mb-8">
-            Inscrivez-vous pour recevoir une notification dès que notre application sera disponible. Restez à
-            l'avant-garde de la sécurité numérique.
+            Sign up to receive a notification as soon as our application becomes available. Stay at the forefront of
+            digital security.
           </p>
           <WaitlistForm />
         </div>
